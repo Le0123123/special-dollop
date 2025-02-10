@@ -145,6 +145,8 @@ world-settings:
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
+  worldeditregentempworld:
+    verbose: false
 config-version: 12
 stats:
   disable-saving: false
