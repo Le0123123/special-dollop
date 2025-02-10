@@ -144,7 +144,7 @@ dynamics:
     disable-copper-block-fade: false
     snow-fall-blocks: []
 blacklist:
-    use-as-whitelist: false
+    use-as-whitelist: true
     logging:
         console:
             enable: true
