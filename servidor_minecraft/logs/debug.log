@@ -24230,3 +24230,103 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [10Feb2025 21:15:15.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
 [10Feb2025 21:15:50.428] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
 [10Feb2025 21:15:53.012] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[10Feb2025 21:16:11.820] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[10Feb2025 21:16:48.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /rg flags -w "pagdfgdfgdfg" -p 5 new_pajaland
+[10Feb2025 21:16:55.020] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[10Feb2025 21:17:02.669] [Server thread/DEBUG] [mixin/]: Mixing CraftBlockStateMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_19_R1.block.CraftBlockState
+[10Feb2025 21:17:02.673] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$SkullType()[I class org/bukkit/craftbukkit/v1_19_R1/block/CraftSkull
+[10Feb2025 21:17:02.673] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Material()[I class org/bukkit/craftbukkit/v1_19_R1/block/CraftSkull
+[10Feb2025 21:17:02.673] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method $SWITCH_TABLE$org$bukkit$Material()[I in class org/bukkit/craftbukkit/v1_19_R1/block/CraftSkull
+[10Feb2025 21:17:02.673] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_19_R1/block/CraftSkull:$SWITCH_TABLE$org$bukkit$Material()[I, switch table field is $SWITCH_TABLE$org$bukkit$Material[I
+[10Feb2025 21:17:02.713] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Material()[I class org/bukkit/craftbukkit/v1_19_R1/block/CraftBed
+[10Feb2025 21:17:02.713] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Find switch(enum org/bukkit/Material) table method $SWITCH_TABLE$org$bukkit$Material()[I in class org/bukkit/craftbukkit/v1_19_R1/block/CraftBed
+[10Feb2025 21:17:02.713] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Inject method in method org/bukkit/craftbukkit/v1_19_R1/block/CraftBed:$SWITCH_TABLE$org$bukkit$Material()[I, switch table field is $SWITCH_TABLE$org$bukkit$Material[I
+[10Feb2025 21:17:03.782] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[10Feb2025 21:17:03.784] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.PortalShapeMixin from mixins.arclight.core.json into net.minecraft.world.level.portal.PortalShape
+[10Feb2025 21:17:03.785] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$buildPortal$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V to mdf0ae10$lambda$arclight$buildPortal$0$0 in mixins.arclight.core.json:world.level.block.PortalShapeMixin
+[10Feb2025 21:17:12.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /gamemode survival
+[10Feb2025 21:17:12.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[10Feb2025 21:17:14.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder fell from a high place
+[10Feb2025 21:17:15.977] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[10Feb2025 21:17:15.988] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[10Feb2025 21:17:16.900] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/server/network/ServerGamePacketListenerImpl$2
+[10Feb2025 21:17:17.017] [Server thread/DEBUG] [twilightforest/]: Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) respawned and received items held in storage
+[10Feb2025 21:17:20.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /deop
+[10Feb2025 21:17:25.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 21:17:25.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[10Feb2025 21:17:25.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /deop s
+[10Feb2025 21:17:25.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[10Feb2025 21:17:27.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /gamemode spectator
+[10Feb2025 21:17:27.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 21:17:35.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /gamemode survival
+[10Feb2025 21:17:35.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[10Feb2025 21:17:36.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /gamemode spectator
+[10Feb2025 21:17:36.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 21:17:46.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /gamemode survival
+[10Feb2025 21:17:46.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[10Feb2025 21:17:49.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /deop Sofx0Loder
+[10Feb2025 21:17:49.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Made Sofx0Loder no longer a server operator]
+[10Feb2025 21:17:49.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder fell from a high place
+[10Feb2025 21:17:51.660] [Server thread/DEBUG] [twilightforest/]: Player Sofx0Loder (cf29b5c6-0b9d-3984-a750-655110aa4d25) respawned and received items held in storage
+[10Feb2025 21:17:55.022] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$2
+[10Feb2025 21:17:58.429] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$block$BlockFace()[I class org/bukkit/craftbukkit/v1_19_R1/CraftEffect
+[10Feb2025 21:17:58.429] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Axis()[I class org/bukkit/craftbukkit/v1_19_R1/CraftEffect
+[10Feb2025 21:17:58.429] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$Effect()[I class org/bukkit/craftbukkit/v1_19_R1/CraftEffect
+[10Feb2025 21:18:07.476] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerGamePacketListenerImpl$1Handler$8e021d4cc35e4201b0588c1e09eaed2b (originally io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$1Handler)
+[10Feb2025 21:18:08.285] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[10Feb2025 21:19:16.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Sofx0Loder a server operator
+[10Feb2025 21:19:22.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /gamemode spectator
+[10Feb2025 21:19:22.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Spectator Mode]
+[10Feb2025 21:19:23.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /gamemode survival
+[10Feb2025 21:19:23.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Survival Mode]
+[10Feb2025 21:19:26.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /gamemode creative
+[10Feb2025 21:19:26.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Set own game mode to Creative Mode]
+[10Feb2025 21:19:32.285] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[10Feb2025 21:19:39.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /rg flag -w "pagdfgdfgdfg" -h 5 new_pajaland fall-damage DENY
+[10Feb2025 21:19:42.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /rg flags -w "pagdfgdfgdfg" -p 6 new_pajaland
+[10Feb2025 21:19:57.170] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class dev/felnull/imp/server/handler/ServerMessageHandler$1
+[10Feb2025 21:20:04.121] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/decoration/ArmorStand$1
+[10Feb2025 21:20:06.116] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/joefoxe/hexerei/client/renderer/entity/custom/CrowEntity$6
+[10Feb2025 21:20:10.363] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/BaseRailBlock$1
+[10Feb2025 21:20:18.719] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/FaceAttachedHorizontalDirectionalBlock$1
+[10Feb2025 21:20:19.100] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/vehicle/AbstractMinecart$1
+[10Feb2025 21:21:07.471] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[10Feb2025 21:21:10.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /rg flag -w "pagdfgdfgdfg" -h 5 new_pajaland notify-enter false
+[10Feb2025 21:21:12.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /rg flag -w "pagdfgdfgdfg" -h 5 new_pajaland notify-leave false
+[10Feb2025 21:21:17.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /rg flags -w "pagdfgdfgdfg" -p 6 new_pajaland
+[10Feb2025 21:21:23.625] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[10Feb2025 21:21:59.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[10Feb2025 21:22:13.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /gamerule randomTickSpeed
+[10Feb2025 21:22:19.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /gamerule randomTickSpeed 0
+[10Feb2025 21:22:19.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Gamerule randomTickSpeed is now set to: 0]
+[10Feb2025 21:22:20.956] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[10Feb2025 21:22:25.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 21:22:25.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[10Feb2025 21:22:52.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder issued server command: /gamerule randomTickSpeed 5
+[10Feb2025 21:22:52.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sofx0Loder: Gamerule randomTickSpeed is now set to: 5]
+[10Feb2025 21:23:48.069] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/SnowLayerBlock$1
+[10Feb2025 21:24:13.755] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[10Feb2025 21:24:25.407] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[10Feb2025 21:24:46.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Feb2025 21:24:46.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Feb2025 21:24:46.305] [Server thread/INFO] [WorldGuard/]: Disabling WorldGuard v7.0.8+33cdb4a
+[10Feb2025 21:24:46.307] [Server thread/INFO] [WorldEdit/]: Disabling WorldEdit v7.2.16+6534-2066eb4
+[10Feb2025 21:24:46.333] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[10Feb2025 21:24:46.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Feb2025 21:24:46.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sofx0Loder lost connection: Server closed
+[10Feb2025 21:24:46.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sofx0Loder left the game.
+[10Feb2025 21:24:46.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Feb2025 21:24:50.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg]'/minecraft:overworld
+[10Feb2025 21:24:54.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[10Feb2025 21:24:54.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[10Feb2025 21:24:54.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg/DIM-1]'/minecraft:the_nether
+[10Feb2025 21:24:54.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg/DIM1]'/minecraft:the_end
+[10Feb2025 21:24:54.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[pagdfgdfgdfg/twilightforest/twilight_forest]'/twilightforest:twilight_forest
+[10Feb2025 21:24:54.163] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10Feb2025 21:24:54.164] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./PAJALAND/serverconfig
+[10Feb2025 21:24:54.164] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[10Feb2025 21:24:54.164] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[10Feb2025 21:24:54.165] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies
+[10Feb2025 21:24:54.169] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[JLine Shutdown Hook,5,main]
+[10Feb2025 21:24:59.171] [Exit Thread/DEBUG] [Arclight/]: Threads bStats-Metrics, bStats-Metrics, WorldGuard Region Chunk Table - pagdfgdfgdfg not shutting down
+[10Feb2025 21:24:59.171] [Exit Thread/INFO] [Arclight/]: 3 threads not shutting down correctly, force exiting

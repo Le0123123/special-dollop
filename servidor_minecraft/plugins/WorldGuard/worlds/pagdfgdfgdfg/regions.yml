@@ -22,10 +22,10 @@ regions:
             lightning: allow, wither-damage: allow, lighter: allow, enderman-grief: allow,
             pvp: allow, pistons: allow, mob-spawning: deny, natural-hunger-drain: allow,
             enderpearl: allow, item-drop: allow, send-chat: allow, creeper-explosion: allow,
-            exp-drops: allow, vine-growth: allow, fall-damage: allow, item-pickup: allow,
+            exp-drops: allow, vine-growth: allow, fall-damage: deny, item-pickup: allow,
             item-frame-rotation: deny, potion-splash: allow, damage-animals: allow,
-            notify-enter: true, receive-chat: allow, tnt: deny, entity-item-frame-destroy: deny,
-            grass-growth: allow, notify-leave: true}
+            notify-enter: false, receive-chat: allow, tnt: deny, entity-item-frame-destroy: deny,
+            grass-growth: allow, notify-leave: false}
         owners: {}
         type: cuboid
         priority: 0
