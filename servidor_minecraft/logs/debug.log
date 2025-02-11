@@ -24206,3 +24206,7 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [11Feb2025 06:33:52.746] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of kidzekka_
 [11Feb2025 06:33:52.746] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kidzekka_
 [11Feb2025 06:33:52.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kidzekka_ left the game
+[11Feb2025 06:37:30.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[11Feb2025 06:37:30.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[11Feb2025 06:42:30.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[11Feb2025 06:42:30.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
