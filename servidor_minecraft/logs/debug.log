@@ -24195,3 +24195,14 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [11Feb2025 06:24:44.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
 [11Feb2025 06:24:58.085] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
 [11Feb2025 06:25:06.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[11Feb2025 06:27:30.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[11Feb2025 06:27:30.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[11Feb2025 06:30:49.755] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerGamePacketListenerImpl$1Handler$854a261fc5fb409f90e95f87cb4383c5 (originally io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$1Handler)
+[11Feb2025 06:30:55.837] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[11Feb2025 06:31:36.287] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[11Feb2025 06:32:30.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[11Feb2025 06:32:30.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[11Feb2025 06:33:52.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kidzekka_ lost connection: Disconnected
+[11Feb2025 06:33:52.746] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of kidzekka_
+[11Feb2025 06:33:52.746] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kidzekka_
+[11Feb2025 06:33:52.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kidzekka_ left the game

@@ -682,3 +682,8 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [11Feb2025 06:24:44.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
 [11Feb2025 06:24:58.085] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
 [11Feb2025 06:25:06.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:skeleton but it was marked as removed already
+[11Feb2025 06:30:55.837] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[11Feb2025 06:31:36.287] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:zombie but it was marked as removed already
+[11Feb2025 06:33:52.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kidzekka_ lost connection: Disconnected
+[11Feb2025 06:33:52.746] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kidzekka_
+[11Feb2025 06:33:52.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kidzekka_ left the game
