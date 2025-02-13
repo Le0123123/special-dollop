@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-02-13 18:08:24 +0000",
       "minecraft:plains": "2025-02-13 18:00:50 +0000"
     },
     "done": false
