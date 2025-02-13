@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-13 18:50:35 +0000"
+    },
+    "done": true
+  },
   "beautify:progression/root": {
     "criteria": {
       "Install": "2025-02-13 18:00:49 +0000"
