@@ -14,16 +14,16 @@ regions:
         min: {x: 170, y: -64, z: 149}
         max: {x: 371, y: 319, z: 375}
         members: {}
-        flags: {natural-health-regen: allow, other-explosion: allow, lava-fire: allow,
-            water-flow: allow, use: allow, invincible: allow, snow-fall: allow, interact: allow,
-            vehicle-destroy: allow, chest-access: allow, firework-damage: allow, ride: allow,
+        flags: {natural-health-regen: allow, other-explosion: deny, lava-fire: allow,
+            water-flow: allow, use: allow, invincible: allow, snow-fall: allow, vehicle-destroy: allow,
+            interact: allow, chest-access: allow, ride: allow, firework-damage: allow,
             fire-spread: deny, sleep: allow, vehicle-place: allow, snowman-trails: allow,
-            mob-damage: allow, entity-painting-destroy: deny, use-anvil: deny, respawn-anchors: allow,
-            lightning: allow, wither-damage: allow, lighter: allow, enderman-grief: allow,
-            pvp: allow, pistons: allow, mob-spawning: deny, natural-hunger-drain: allow,
-            enderpearl: allow, item-drop: allow, send-chat: allow, creeper-explosion: allow,
-            exp-drops: allow, vine-growth: allow, fall-damage: deny, item-pickup: allow,
-            item-frame-rotation: deny, potion-splash: allow, damage-animals: allow,
+            mob-damage: allow, entity-painting-destroy: deny, respawn-anchors: allow,
+            use-anvil: deny, lightning: allow, wither-damage: allow, lighter: allow,
+            enderman-grief: allow, pvp: allow, pistons: allow, mob-spawning: allow,
+            natural-hunger-drain: allow, enderpearl: allow, item-drop: allow, creeper-explosion: deny,
+            send-chat: allow, exp-drops: allow, vine-growth: allow, fall-damage: deny,
+            item-frame-rotation: deny, item-pickup: allow, potion-splash: allow, damage-animals: allow,
             notify-enter: false, receive-chat: allow, tnt: deny, entity-item-frame-destroy: deny,
             grass-growth: allow, notify-leave: false}
         owners: {}
