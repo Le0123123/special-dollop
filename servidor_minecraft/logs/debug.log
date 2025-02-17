@@ -24709,3 +24709,7 @@ com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
 [17Feb2025 02:23:25.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kidzekka_ left the game
 [17Feb2025 02:26:58.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
 [17Feb2025 02:26:58.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[17Feb2025 02:31:58.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[17Feb2025 02:31:58.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
+[17Feb2025 02:36:58.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save pagdfgdfgdfg
+[17Feb2025 02:36:58.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete pagdfgdfgdfg
