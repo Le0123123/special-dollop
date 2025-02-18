@@ -11,24 +11,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv2": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/keycard_lv1": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/beef_block_to_scraps": {
-    "criteria": {
-      "has_beef": "2025-02-18 04:06:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:41:16 +0000"
@@ -38,30 +20,6 @@
   "smallships:recipes/transportation/jungle_drakkar": {
     "criteria": {
       "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/acacia_cog": {
-    "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-18 04:44:24 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/fairy_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/bouncing_betty": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
     },
     "done": true
   },
@@ -84,12 +42,6 @@
     "done": true
   },
   "butchercraft:recipes/butchercraft.items/gut_knife": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
     },
@@ -119,12 +71,6 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/spruce_drakkar": {
-    "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:41:16 +0000"
@@ -137,33 +83,9 @@
     },
     "done": true
   },
-  "butchercraft:recipes/butchercraft.items/grinder": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 04:44:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/oak_cog": {
-    "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/fridge_dark": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
     },
     "done": true
   },
@@ -179,15 +101,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv4": {
+  "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/keycard_lv3": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
+      "has_diamond": "2025-02-18 04:45:52 +0000"
     },
     "done": true
   },
@@ -209,21 +125,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv5": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2025-02-18 04:08:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+  "minecraft:recipes/decorations/jukebox": {
     "criteria": {
-      "has_gold_ingot": "2025-02-18 04:44:24 +0000"
+      "has_diamond": "2025-02-18 04:45:52 +0000"
     },
     "done": true
   },
@@ -234,18 +144,6 @@
     "done": true
   },
   "cfm:recipes/cfm/brown_grill": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/star_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/spider_light": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
     },
@@ -266,24 +164,6 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/spatula": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/moon_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/mangrove_cog": {
-    "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
     },
     "done": true
   },
@@ -311,31 +191,13 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/smart_module": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:41:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-18 04:44:24 +0000"
-    },
-    "done": true
-  },
   "fairylights:recipes/fairylights/tinsel_garland": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/block_change_detector": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
     },
@@ -347,51 +209,15 @@
     },
     "done": true
   },
-  "fairylights:recipes/fairylights/snowflake_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-02-18 04:41:06 +0000"
     },
     "done": true
   },
-  "butchercraft:recipes/butchercraft.items/bone_saw": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/comb": {
-    "criteria": {
-      "has_item": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-18 04:44:24 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/meat_hook": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
     },
     "done": true
   },
@@ -410,18 +236,6 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/incandescent_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
     },
     "done": true
   },
@@ -449,33 +263,9 @@
     },
     "done": true
   },
-  "fairylights:recipes/fairylights/candle_lantern_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/flower_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/spartanshields/copper_tower_shield": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-18 04:44:09 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/orange_grill": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/leather_cord": {
-    "criteria": {
-      "has_scrap": "2025-02-18 04:06:42 +0000"
     },
     "done": true
   },
@@ -488,30 +278,6 @@
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/whistle": {
-    "criteria": {
-      "has_item": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/jungle_cog": {
-    "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
     },
     "done": true
   },
@@ -557,31 +323,7 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/trophy_system": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "argentina_food_mod:fernet_advancement": {
-    "criteria": {
-      "fernet_advancement": "2025-02-18 04:40:08 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/heart_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/purple_grill": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/camera_monitor": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
     },
@@ -593,21 +335,9 @@
     },
     "done": true
   },
-  "beautify:iron_blinds": {
-    "criteria": {
-      "requirement": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-18 04:44:24 +0000"
     },
     "done": true
   },
@@ -623,21 +353,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/limited_use_keycard": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2025-02-18 04:08:33 +0000"
     },
     "done": true
   },
-  "smallships:recipes/transportation/oak_drakkar": {
+  "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
+      "has_diamond": "2025-02-18 04:45:52 +0000"
     },
     "done": true
   },
@@ -659,38 +383,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
-      "minecraft:old_growth_pine_taiga": "2025-02-18 04:08:58 +0000",
-      "minecraft:sunflower_plains": "2025-02-18 04:26:02 +0000",
-      "minecraft:river": "2025-02-11 06:23:22 +0000",
-      "minecraft:forest": "2025-02-18 04:03:59 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-02-18 04:06:34 +0000",
-      "minecraft:plains": "2025-02-11 06:18:02 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/iron_door": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
+      "has_diamond": "2025-02-18 04:45:52 +0000"
     },
     "done": true
   },
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
-  "undead_unleashed:undead_unleashed": {
-    "criteria": {
-      "undead_unleashed": "2025-02-11 06:18:00 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/letter_bunting": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
     },
     "done": true
   },
@@ -706,33 +407,9 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/dark_oak_drakkar": {
-    "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
-  "pizzacraft:root": {
-    "criteria": {
-      "tick": "2025-02-11 06:18:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-02-18 04:00:01 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/red_grill": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/whitelist_module": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
     },
     "done": true
   },
@@ -772,15 +449,584 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smithing_table": {
+  "fairylights:recipes/fairylights/oil_lantern_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/witch_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_quest_source": {
+    "criteria": {
+      "kq_quest_source": "2025-02-11 06:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-18 04:00:46 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/skinning_knife": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/storage_module": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/oil_lantern": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-18 04:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/music_manager": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_grill": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:41:16 +0000"
     },
     "done": true
   },
-  "fairylights:recipes/fairylights/oil_lantern_light": {
+  "cfm:recipes/cfm/pink_grill": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "argentina_food_mod:mate_advancement": {
+    "criteria": {
+      "mate_advancement": "2025-02-18 04:00:06 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/iron_basic_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-18 04:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/ghost_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-18 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-02-18 04:00:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_grill": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2025-02-11 06:18:01 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/orb_lantern": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/meteor_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 04:44:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/beef_block_to_scraps": {
+    "criteria": {
+      "has_beef": "2025-02-18 04:06:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 04:44:24 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/fairy_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_grill": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/grinder": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/fridge_dark": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 04:44:24 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/star_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spider_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "argentina_food_mod:manaos_advancement": {
+    "criteria": {
+      "manaos_advancement": "2025-02-18 04:59:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spatula": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/moon_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:45:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 04:44:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/snowflake_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/bone_saw": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 04:44:24 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/meat_hook": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/incandescent_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/candle_lantern_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/flower_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-18 04:44:09 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/leather_cord": {
+    "criteria": {
+      "has_scrap": "2025-02-18 04:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "argentina_food_mod:fernet_advancement": {
+    "criteria": {
+      "fernet_advancement": "2025-02-18 04:40:08 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/heart_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 04:44:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-02-18 04:08:58 +0000",
+      "minecraft:sunflower_plains": "2025-02-18 04:26:02 +0000",
+      "minecraft:river": "2025-02-11 06:23:22 +0000",
+      "minecraft:forest": "2025-02-18 04:03:59 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-18 04:06:34 +0000",
+      "minecraft:plains": "2025-02-11 06:18:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:undead_unleashed": {
+    "criteria": {
+      "undead_unleashed": "2025-02-11 06:18:00 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/letter_bunting": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-02-18 04:08:33 +0000"
+    },
+    "done": true
+  },
+  "pizzacraft:root": {
+    "criteria": {
+      "tick": "2025-02-11 06:18:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_grill": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
     },
     "done": true
   },
@@ -796,27 +1042,9 @@
     },
     "done": true
   },
-  "fairylights:recipes/fairylights/witch_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "knight_quest:kq_quest_source": {
-    "criteria": {
-      "kq_quest_source": "2025-02-11 06:18:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-02-18 04:00:46 +0000"
     },
     "done": true
   },
@@ -838,21 +1066,15 @@
     },
     "done": true
   },
-  "butchercraft:recipes/butchercraft.items/skinning_knife": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/storage_module": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:45:52 +0000"
     },
     "done": true
   },
@@ -877,18 +1099,6 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/oil_lantern": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-18 04:44:09 +0000"
     },
     "done": true
   },
@@ -928,21 +1138,9 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/acacia_drakkar": {
-    "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/spruce_brigg": {
-    "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
     },
     "done": true
   },
@@ -952,37 +1150,13 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/jungle_brigg": {
-    "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/post_box": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
     },
     "done": true
   },
-  "cfm:recipes/cfm/white_grill": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/spartanshields/iron_tower_shield": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
   "fairylights:recipes/fairylights/skull_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/pink_grill": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
     },
@@ -994,33 +1168,9 @@
     },
     "done": true
   },
-  "argentina_food_mod:mate_advancement": {
+  "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
-      "mate_advancement": "2025-02-18 04:00:06 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/spartanshields/iron_basic_shield": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-02-18 04:41:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/ghost_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
+      "has_diamond": "2025-02-18 04:45:52 +0000"
     },
     "done": true
   },
@@ -1036,21 +1186,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-02-18 04:00:01 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/magenta_grill": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
     },
     "done": true
   },
@@ -1066,57 +1204,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/spruce_cog": {
-    "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-18 04:41:16 +0000"
     },
     "done": true
   },
-  "smallships:recipes/transportation/mangrove_drakkar": {
-    "criteria": {
-      "in_water": "2025-02-18 04:08:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "beautify:progression/root": {
-    "criteria": {
-      "Install": "2025-02-11 06:18:01 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/orb_lantern": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/meteor_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-18 04:44:24 +0000"
     },
     "done": true
   },
