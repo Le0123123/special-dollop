@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/cooked_beef_scraps_from_campfire_cooking": {
+    "criteria": {
+      "has_beef_scraps": "2025-02-18 04:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-18 04:06:01 +0000"
@@ -47,9 +53,21 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/beef_block": {
+    "criteria": {
+      "has_beef": "2025-02-18 04:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/beef_block_to_scraps": {
+    "criteria": {
+      "has_beef": "2025-02-18 04:25:40 +0000"
     },
     "done": true
   },
@@ -95,6 +113,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/cooked_beef_scraps_from_smoking": {
+    "criteria": {
+      "has_beef_scraps": "2025-02-18 04:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-18 04:06:01 +0000"
@@ -119,6 +143,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_beef_scraps_from_smelting": {
+    "criteria": {
+      "has_beef_scraps": "2025-02-18 04:25:40 +0000"
     },
     "done": true
   },
@@ -176,9 +206,21 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/leather_cord": {
+    "criteria": {
+      "has_scrap": "2025-02-18 04:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-18 04:06:01 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/beef_scrap_to_ground_beef": {
+    "criteria": {
+      "has_beef_scrap": "2025-02-18 04:25:40 +0000"
     },
     "done": true
   },
@@ -191,6 +233,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-18 04:06:01 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/pork_scrap_to_ground_pork": {
+    "criteria": {
+      "has_pork_scrap": "2025-02-18 04:25:40 +0000"
     },
     "done": true
   },
