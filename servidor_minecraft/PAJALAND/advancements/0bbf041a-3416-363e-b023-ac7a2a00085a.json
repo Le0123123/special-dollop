@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/chicken_block_to_scraps": {
+    "criteria": {
+      "has_chicken": "2025-02-18 15:54:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sentry": {
     "criteria": {
       "has_iron": "2025-02-18 15:24:20 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-18 15:09:14 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_chicken_scraps_from_smoking": {
+    "criteria": {
+      "has_chicken_scraps": "2025-02-18 15:54:27 +0000"
     },
     "done": true
   },
@@ -308,6 +320,12 @@
   "fairylights:recipes/fairylights/garland": {
     "criteria": {
       "has_iron": "2025-02-18 15:24:20 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_chicken_scraps_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken_scraps": "2025-02-18 15:54:27 +0000"
     },
     "done": true
   },
@@ -587,6 +605,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/chicken_scrap_to_ground_chicken": {
+    "criteria": {
+      "has_chicken_scrap": "2025-02-18 15:54:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-02-18 15:13:36 +0000"
@@ -788,6 +812,12 @@
   "spartanshields:recipes/spartanshields/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 15:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-02-18 15:52:31 +0000"
     },
     "done": true
   },
@@ -1049,6 +1079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-18 15:54:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-18 15:24:21 +0000"
@@ -1133,6 +1169,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/cooked_chicken_scraps_from_smelting": {
+    "criteria": {
+      "has_chicken_scraps": "2025-02-18 15:54:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-02-18 15:10:42 +0000"
@@ -1154,6 +1196,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 15:24:22 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/chicken_block": {
+    "criteria": {
+      "has_chicken": "2025-02-18 15:54:27 +0000"
     },
     "done": true
   },
@@ -1411,9 +1459,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-02-18 15:56:53 +0000",
+      "minecraft:dark_forest": "2025-02-18 15:56:41 +0000",
       "minecraft:river": "2025-02-13 18:08:24 +0000",
       "minecraft:forest": "2025-02-18 15:02:34 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-18 15:08:46 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-18 15:56:21 +0000",
       "minecraft:plains": "2025-02-13 18:00:50 +0000"
     },
     "done": false
@@ -1577,6 +1628,12 @@
   "cfm:recipes/cfm/black_grill": {
     "criteria": {
       "has_iron": "2025-02-18 15:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-02-18 15:52:31 +0000"
     },
     "done": true
   },
