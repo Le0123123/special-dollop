@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "beautify:progression/light": {
+    "criteria": {
+      "obtain": "2025-02-18 05:40:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-10 19:28:46 +0000"
@@ -449,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-02-10 20:41:43 +0000"
@@ -518,6 +530,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-10 19:26:22 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
     },
     "done": true
   },
@@ -593,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:creeper": "2025-02-10 20:31:27 +0000"
@@ -608,6 +632,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-02-10 20:22:23 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/iammusicplayer.iammusicplayer/music_manager": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
     },
     "done": true
   },
@@ -668,6 +698,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-10 19:36:10 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_glowing_item_frame": {
+    "criteria": {
+      "hasFramedItemFrame": "2025-02-18 05:40:16 +0000"
     },
     "done": true
   },
@@ -1319,6 +1355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-10 19:20:23 +0000"
@@ -1595,6 +1637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-02-10 19:20:33 +0000"
@@ -1628,6 +1676,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-10 19:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
     },
     "done": true
   },
@@ -1907,6 +1961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-02-10 19:44:22 +0000"
@@ -1976,6 +2036,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-02-10 19:36:10 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_extended_double_slope_panel_rotate_to_framed_elevated_double_slope_slab": {
+    "criteria": {
+      "has_framed_extended_double_slope_panel": "2025-02-18 05:40:16 +0000"
     },
     "done": true
   },
@@ -2087,6 +2153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
+    },
+    "done": true
+  },
   "mca:friend": {
     "criteria": {
       "baby": "2025-02-10 20:25:27 +0000"
@@ -2096,6 +2168,12 @@
   "graveyard:graveyard/dead_tree": {
     "criteria": {
       "dead_tree": "2025-02-10 19:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
     },
     "done": true
   },
@@ -2186,6 +2264,18 @@
   "fairylights:recipes/fairylights/ghost_light": {
     "criteria": {
       "has_iron": "2025-02-10 19:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-18 05:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
     },
     "done": true
   },
@@ -2303,6 +2393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-10 20:22:23 +0000"
@@ -2354,6 +2450,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-10 19:20:30 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2025-02-18 05:40:16 +0000"
     },
     "done": true
   },
@@ -2480,6 +2582,12 @@
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2025-02-10 19:53:56 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
     },
     "done": true
   },
@@ -2888,6 +2996,12 @@
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2025-02-10 19:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-18 05:42:37 +0000"
     },
     "done": true
   },

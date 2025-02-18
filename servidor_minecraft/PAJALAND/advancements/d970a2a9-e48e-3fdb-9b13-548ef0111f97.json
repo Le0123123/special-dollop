@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-02-18 05:49:08 +0000"
+    },
+    "done": true
+  },
   "fairylights:recipes/fairylights/garland": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:07 +0000"
@@ -419,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-02-18 05:49:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:08 +0000"
@@ -566,6 +578,12 @@
   "spartanshields:recipes/spartanshields/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2025-02-18 04:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-18 05:52:57 +0000"
     },
     "done": true
   },
@@ -797,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-18 05:52:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:07 +0000"
@@ -902,6 +926,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-18 05:52:57 +0000"
     },
     "done": true
   },
@@ -1118,6 +1148,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-18 05:52:57 +0000"
     },
     "done": true
   },
