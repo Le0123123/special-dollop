@@ -833,6 +833,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2025-02-18 05:39:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
@@ -1394,6 +1400,12 @@
       "has_iron": "2025-02-18 04:47:07 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "twilight_scepter": "2025-02-18 05:39:37 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {

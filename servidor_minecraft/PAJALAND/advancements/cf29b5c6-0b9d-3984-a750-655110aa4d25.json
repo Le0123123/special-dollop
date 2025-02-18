@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/chicken_block_to_scraps": {
+    "criteria": {
+      "has_chicken": "2025-02-18 05:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-10 19:34:59 +0000"
@@ -248,6 +254,12 @@
   "fairylights:recipes/fairylights/tinsel_garland": {
     "criteria": {
       "has_iron": "2025-02-10 19:36:10 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_chicken_scraps_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken_scraps": "2025-02-18 05:31:20 +0000"
     },
     "done": true
   },
@@ -458,6 +470,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-10 19:44:22 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/chicken_scrap_to_ground_chicken": {
+    "criteria": {
+      "has_chicken_scrap": "2025-02-18 05:31:20 +0000"
     },
     "done": true
   },
@@ -884,6 +902,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-10 19:34:59 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_chicken_scraps_from_smelting": {
+    "criteria": {
+      "has_chicken_scraps": "2025-02-18 05:31:20 +0000"
     },
     "done": true
   },
@@ -1484,6 +1508,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-18 03:53:57 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/cooked_chicken_scraps_from_smoking": {
+    "criteria": {
+      "has_chicken_scraps": "2025-02-18 05:31:20 +0000"
     },
     "done": true
   },
@@ -2477,6 +2507,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/chicken_block": {
+    "criteria": {
+      "has_chicken": "2025-02-18 05:31:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_table": {
     "criteria": {
       "has_planks": "2025-02-10 19:20:23 +0000"
@@ -2522,6 +2558,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-10 19:20:23 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/hanging_lights": {
+    "criteria": {
+      "has_lights": "2025-02-18 05:37:54 +0000"
     },
     "done": true
   },
