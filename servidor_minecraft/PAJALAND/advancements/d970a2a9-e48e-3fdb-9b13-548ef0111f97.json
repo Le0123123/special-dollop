@@ -11,45 +11,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv2": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/keycard_lv1": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/beef_block_to_scraps": {
-    "criteria": {
-      "has_beef": "2025-02-18 04:25:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:47:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
+  "cfm:recipes/cfm/birch_kitchen_sink_light": {
     "criteria": {
-      "has_gold_ingot": "2025-02-18 04:03:46 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/fairy_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/bouncing_betty": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
+      "has_bottom": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
@@ -71,9 +41,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_diamond": "2025-02-18 04:50:05 +0000"
+      "give_recipe": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
@@ -83,9 +53,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
   "butchercraft:recipes/butchercraft.items/gut_knife": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
@@ -95,21 +77,45 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/light_gray_grill": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:08 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/spartanshields/golden_basic_shield": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 04:03:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/netherite_basic_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_black_mage_quest": {
+    "criteria": {
+      "kq_black_mage_quest": "2025-02-18 05:07:21 +0000"
     },
     "done": true
   },
@@ -131,27 +137,9 @@
     },
     "done": true
   },
-  "butchercraft:recipes/butchercraft.items/grinder": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-18 04:06:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/fridge_dark": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
     },
     "done": true
   },
@@ -164,18 +152,6 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-02-18 04:50:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/keycard_lv4": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/keycard_lv3": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
     },
     "done": true
   },
@@ -197,15 +173,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv5": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-18 04:03:46 +0000"
+      "has_planks": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
@@ -215,19 +185,13 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/pig_hood": {
+    "criteria": {
+      "has_head": "2025-02-18 05:17:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_grill": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/star_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/spider_light": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:07 +0000"
     },
@@ -251,33 +215,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/spatula": {
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/moon_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-02-18 04:06:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-02-18 04:06:01 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/spartanshields/diamond_basic_shield": {
-    "criteria": {
-      "has_diamond": "2025-02-18 04:50:05 +0000"
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
     },
     "done": true
   },
@@ -305,31 +245,13 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/smart_module": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:47:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-18 04:03:46 +0000"
-    },
-    "done": true
-  },
   "fairylights:recipes/fairylights/tinsel_garland": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/block_change_detector": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:07 +0000"
     },
@@ -341,21 +263,9 @@
     },
     "done": true
   },
-  "fairylights:recipes/fairylights/snowflake_light": {
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:47:08 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/bone_saw": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
+      "give_recipe": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
@@ -365,21 +275,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_helmet": {
+  "butchercraft:recipes/butchercraft.items/cow_hood": {
     "criteria": {
-      "has_gold_ingot": "2025-02-18 04:03:46 +0000"
+      "has_head": "2025-02-18 05:17:42 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/comb": {
+  "cfm:recipes/cfm/birch_park_bench": {
     "criteria": {
-      "has_item": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/meat_hook": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
+      "has_planks": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
@@ -389,21 +293,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:47:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_boots": {
+  "cfm:recipes/cfm/birch_crate": {
     "criteria": {
-      "has_iron_ingot": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/incandescent_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
+      "has_planks": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
@@ -413,31 +317,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
   "butchercraft:recipes/butchercraft.items/cooked_beef_scraps_from_smelting": {
     "criteria": {
       "has_beef_scraps": "2025-02-18 04:25:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-02-18 04:06:01 +0000"
-    },
-    "done": true
-  },
   "butchercraft:recipes/butchercraft.items/grinder_tip": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/candle_lantern_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/flower_light": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:07 +0000"
     },
@@ -455,27 +347,15 @@
     },
     "done": true
   },
-  "butchercraft:recipes/butchercraft.items/leather_cord": {
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_scrap": "2025-02-18 04:25:40 +0000"
+      "give_recipe": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:47:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:47:08 +0000"
     },
     "done": true
   },
@@ -491,15 +371,15 @@
     },
     "done": true
   },
-  "mca:recipes/misc/whistle": {
-    "criteria": {
-      "has_item": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_apple_red_quest": {
+    "criteria": {
+      "kq_apple_red_quest": "2025-02-18 05:07:26 +0000"
     },
     "done": true
   },
@@ -533,12 +413,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-02-18 04:06:01 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:08 +0000"
@@ -551,31 +425,19 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/trophy_system": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-18 04:06:01 +0000"
     },
     "done": true
   },
-  "fairylights:recipes/fairylights/heart_light": {
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_iron": "2025-02-18 04:47:08 +0000"
+      "give_recipe": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
   "cfm:recipes/cfm/purple_grill": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/camera_monitor": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:07 +0000"
     },
@@ -587,33 +449,15 @@
     },
     "done": true
   },
-  "beautify:iron_blinds": {
-    "criteria": {
-      "requirement": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:47:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-18 04:03:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 04:03:46 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/limited_use_keycard": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
     },
     "done": true
   },
@@ -629,37 +473,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2025-02-18 04:01:54 +0000",
-      "minecraft:forest": "2025-02-18 04:04:42 +0000",
-      "minecraft:desert": "2025-02-18 04:52:43 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-02-18 04:06:50 +0000",
-      "minecraft:plains": "2025-02-18 03:51:54 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/iron_door": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:47:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-02-18 04:50:05 +0000"
-    },
-    "done": true
-  },
-  "undead_unleashed:undead_unleashed": {
-    "criteria": {
-      "undead_unleashed": "2025-02-18 03:51:53 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/letter_bunting": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
     },
     "done": true
   },
@@ -675,27 +491,15 @@
     },
     "done": true
   },
-  "pizzacraft:root": {
-    "criteria": {
-      "tick": "2025-02-18 03:51:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-02-18 04:01:20 +0000"
     },
     "done": true
   },
-  "cfm:recipes/cfm/red_grill": {
+  "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/whitelist_module": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
     },
     "done": true
   },
@@ -729,25 +533,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:47:08 +0000"
-    },
-    "done": true
-  },
   "fairylights:recipes/fairylights/oil_lantern_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/pork_scrap_to_ground_pork": {
-    "criteria": {
-      "has_pork_scrap": "2025-02-18 04:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/gray_grill": {
     "criteria": {
       "has_iron": "2025-02-18 04:47:07 +0000"
     },
@@ -759,9 +545,9 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/lime_grill": {
+  "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
+      "has_planks": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
@@ -795,33 +581,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/mine": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-18 04:06:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-02-18 04:50:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-18 04:47:08 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/black_grill": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
     },
     "done": true
   },
@@ -849,51 +611,21 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/cyan_grill": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/icicle_lights": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-02-18 04:03:46 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/briefcase": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
   "iammusicplayer:recipes/iammusicplayer.iammusicplayer/music_manager": {
     "criteria": {
       "has_diamond": "2025-02-18 04:50:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lantern": {
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
     "criteria": {
-      "has_iron_ingot": "2025-02-18 04:47:07 +0000"
+      "give_recipe": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
-  "cfm:recipes/cfm/light_blue_grill": {
+  "minecraft:recipes/redstone/birch_door": {
     "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/cfm/post_box": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
+      "has_planks": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
@@ -906,12 +638,6 @@
   "spartanshields:recipes/spartanshields/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/skull_light": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
     },
     "done": true
   },
@@ -945,27 +671,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-02-18 04:50:05 +0000"
-    },
-    "done": true
-  },
-  "fairylights:recipes/fairylights/jack_o_lantern": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-02-18 04:50:05 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+  "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
     },
     "done": true
   },
@@ -981,27 +695,9 @@
     },
     "done": true
   },
-  "fairylights:recipes/fairylights/paper_lantern": {
+  "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/butchercraft.items/beef_scrap_to_ground_beef": {
-    "criteria": {
-      "has_beef_scrap": "2025-02-18 04:25:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-02-18 04:47:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/disguise_module": {
-    "criteria": {
-      "has_iron": "2025-02-18 04:47:07 +0000"
+      "has_planks": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },
@@ -1038,6 +734,712 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-02-18 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "jeg:recipes/jeg/workbench": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_table": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/beef_block_to_scraps": {
+    "criteria": {
+      "has_beef": "2025-02-18 04:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/fairy_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_grill": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:08 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-02-18 05:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/grinder": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/fridge_dark": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-18 05:15:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_veteran_quest": {
+    "criteria": {
+      "kq_veteran_quest": "2025-02-18 05:01:37 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/star_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/spider_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spatula": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/moon_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 04:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 04:06:01 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/netherite_tower_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-02-18 05:15:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/snowflake_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:47:08 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/bone_saw": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/meat_hook": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-02-18 05:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/incandescent_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 04:06:01 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/candle_lantern_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-18 05:15:17 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/flower_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/leather_cord": {
+    "criteria": {
+      "has_scrap": "2025-02-18 04:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:47:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_quest_build_first_armor": {
+    "criteria": {
+      "kq_quest_build_first_armor": "2025-02-18 05:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-02-18 04:06:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:08 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/heart_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-02-18 04:01:54 +0000",
+      "minecraft:forest": "2025-02-18 04:04:42 +0000",
+      "minecraft:desert": "2025-02-18 04:52:43 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-18 04:06:50 +0000",
+      "minecraft:plains": "2025-02-18 03:51:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:47:08 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:undead_unleashed": {
+    "criteria": {
+      "undead_unleashed": "2025-02-18 03:51:53 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/letter_bunting": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "pizzacraft:root": {
+    "criteria": {
+      "tick": "2025-02-18 03:51:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_grill": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:47:08 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/pork_scrap_to_ground_pork": {
+    "criteria": {
+      "has_pork_scrap": "2025-02-18 04:25:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_grill": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_grill": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/mine": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:47:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_grill": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_grill": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/icicle_lights": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-18 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-18 05:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_grill": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/post_box": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/skull_light": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-18 04:50:05 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/jack_o_lantern": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "fairylights:recipes/fairylights/paper_lantern": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/butchercraft.items/beef_scrap_to_ground_beef": {
+    "criteria": {
+      "has_beef_scrap": "2025-02-18 04:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-02-18 04:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-18 05:16:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-02-18 05:16:17 +0000"
     },
     "done": true
   },

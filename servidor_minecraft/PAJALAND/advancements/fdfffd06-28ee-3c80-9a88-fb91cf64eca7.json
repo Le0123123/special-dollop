@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-02-18 05:07:08 +0000"
+    },
+    "done": true
+  },
   "beautify:lamps": {
     "criteria": {
       "requirement": "2025-02-18 04:44:09 +0000"
