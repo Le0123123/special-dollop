@@ -743,6 +743,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/butchercraft.items/sheep_hood": {
+    "criteria": {
+      "has_head": "2025-02-18 05:20:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-18 05:16:17 +0000"
